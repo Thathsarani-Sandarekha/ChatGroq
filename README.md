@@ -22,7 +22,14 @@ It supports **semantic search**, **context-aware Q&A**, and displays **retrieved
 
 ---
 ## 🖼️ Example Outputs
-[📁 Project Portfolio](https://thathsarani-sandarekha.github.io/thathsarani_zone/)
+<img src="./example outputs/2 ex.jpg" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./example outputs/3 ex.jpg" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./example outputs/4 ex.jpg" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./example outputs/5 ex.jpg" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./example outputs/6 ex.jpg" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./example outputs/7 ex.jpg" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+<img src="./example outputs/8 ex.jpg" alt="rq1" style="margin-top: 1rem; max-width: 100%; border-radius: 8px;">
+
 ---
 
 ## 🧠 How It Works
