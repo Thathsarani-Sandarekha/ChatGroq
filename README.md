@@ -8,6 +8,8 @@ This project is a Streamlit-powered chatbot that uses **LangChain**, **FAISS**, 
 
 It supports **semantic search**, **context-aware Q&A**, and displays **retrieved content sources**.
 
+> 🚧 **Currently upgrading to a multimodal RAG system with support for image-based reasoning using LLaVA.**  
+
 ---
 
 ## 🧠 Features
